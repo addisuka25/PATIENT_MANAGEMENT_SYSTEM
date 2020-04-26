@@ -1,0 +1,13 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+
+Login Details for admin : admin
+              Password : 1234
+
+
+DON'T FORGET TO CREATE A DATABASE NAMING "patient_management_system" AND IMPORT THE SQL FILE AND RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO POST IN THE WHATSAPP GROUP *****  
+
+
